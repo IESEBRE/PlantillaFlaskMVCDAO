@@ -1,0 +1,4 @@
+persistent~=5.2
+transaction~=4.0
+ZODB~=6.0
+Flask~=3.0.3
